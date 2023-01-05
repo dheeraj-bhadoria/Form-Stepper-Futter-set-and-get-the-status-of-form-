@@ -1,5 +1,7 @@
 name: stepper_flutter_form
 description: stepper_flutter - Stepper flutter used to set and get the status of form. Very easy library for navigate to form.
+homepage: https://github.com/dheeraj-bhadoria/Form-Stepper-Futter-set-and-get-the-status-of-form-
+repository: https://github.com/dheeraj-bhadoria/Form-Stepper-Futter-set-and-get-the-status-of-form-
 
 # The following defines the version and build number for your application.
 # A version number is three numbers separated by dots, like 1.2.43

@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/rendering.dart';
-import 'package:stepper_flutter/stepper_flutter_form.dart';
+import 'package:stepper_flutter_form/stepper_flutter_form.dart';
 
 void main() {
   runApp(const MyApp());
